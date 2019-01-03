@@ -1,9 +1,9 @@
-# IM
-学院组织的一次实训项目。
-基于MFC上做的，基本的TCP通讯协议和C/S架构的开发，发送文件和私聊群聊一些功能，能够传发图片，还有额外的功能。
-额外功能：
- ## （1）地图
- （使用了百度地图的API）
- ##  (2)音乐播放器
- ## （3）小游戏
- ## （4）下载器
+# IM 
+A practical training program organized by the college.
+Based on MFC, basic TCP communication protocol and C/S architecture development, send files and private chat group chat some functions, can send pictures, there are additional functions.
+# Others：
+ ## （1）Map
+ (using the API of baidu map)
+ ##  (2) Music player
+ ## （3）A flash game
+ ## （4）Simple downloaders
